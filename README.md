@@ -15,4 +15,4 @@
 | № | Описание | Ссылка на работу |
 |---|:---:|---:
 | 1 | HW1 | [HW1](https://github.com/vika11053/python-dh-hw/blob/master/HW1.ipynb) |
-| 2 | HW2 |                                                                        |
+| 2 | HW2 | [HW2](https://github.com/vika11053/python-dh-hw/blob/master/HW2.ipynb) |                                                                      |
